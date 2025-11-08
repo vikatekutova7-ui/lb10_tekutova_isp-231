@@ -1,0 +1,5 @@
+﻿interface IPerson
+{
+    void GetDescription();
+}
+
